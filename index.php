@@ -1,1 +1,6 @@
-bruh
+<?php
+
+echo time();
+
+?>
+Test PHP
